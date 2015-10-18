@@ -1,6 +1,6 @@
 # Settings for Rails
 
-[![Build Status](https://travis-ci.org/ledermann/rails-settings.svg?branch=master)](https://travis-ci.org/ledermann/rails-settings)
+[![Build Status](https://travis-ci.org/jordanhiltunen/rails-settings.svg?branch=master)](https://travis-ci.org/jordanhiltunen/rails-settings)
 [![Code Climate](https://codeclimate.com/github/ledermann/rails-settings.svg)](https://codeclimate.com/github/ledermann/rails-settings)
 [![Coverage Status](https://coveralls.io/repos/ledermann/rails-settings/badge.svg?branch=master)](https://coveralls.io/r/ledermann/rails-settings?branch=master)
 
